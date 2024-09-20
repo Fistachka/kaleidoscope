@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>kaleidoscope</repo>
-  <version>v1.0.0</version>
+  <version>v1.0.1</version>
   <next number="1" owner="stolbitsa" repo="supertonic-low-2"/>
   <readme>
-    <ru>8de18476f8dcdcaf2294666b62bf6801f2bd71f2aa69423acbc63d89525700ae</ru>
-    <en>e28506620b9e15a310f379386a9bdf510571a88baf42801429d09edf5092108b</en>
+    <ru>117798a58d994b2a8f59cc84aa350c146aa585cc5dd1c087ff6fad5e98758715</ru>
+    <en>f53b774c0d32fd8620e053f98f8cefe34af721e7abf7cdcced00779146c63caa</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
