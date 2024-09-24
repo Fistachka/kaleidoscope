@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>kaleidoscope</repo>
-  <version>v1.0.10</version>
+  <version>v1.0.11</version>
   <next number="1" owner="stolbitsa" repo="supertonic-low-2"/>
   <readme>
     <ru>93a635eeb3b4a2df91edd2faee6dfd60bf07bc19139dcbb4719ffc8d999c6e6a</ru>
@@ -16,13 +16,13 @@
     <tonalities>6</tonalities>
     <video name="k11.mp4" size="1831379" type="video/mp4" volume="0.45">89ec6e736a210146cb227a48632f7bccdfcd1723716af948dc24c8aa76221297</video>
     <notes>
-      <note number="1" values="5" ticks="101" durationTicks="18" ppq="96" velocity="0.866"/>
-      <note number="2" values="18" ticks="153" durationTicks="14" ppq="96" velocity="0.866"/>
-      <note number="3" values="2" ticks="200" durationTicks="13" ppq="96" velocity="0.89"/>
-      <note number="4" values="4" ticks="242" durationTicks="18" ppq="96" velocity="0.866"/>
-      <note number="5" values="4" ticks="293" durationTicks="21" ppq="96" velocity="0.803"/>
-      <note number="6" values="4" ticks="343" durationTicks="17" ppq="96" velocity="0.795"/>
-      <note number="7" values="4" ticks="392" durationTicks="63" ppq="96" velocity="0.795"/>
+      <note number="1" values="5" ticks="37" durationTicks="85" ppq="96" velocity="0.866"/>
+      <note number="2" values="18" ticks="107" durationTicks="77" ppq="96" velocity="0.866"/>
+      <note number="3" values="2" ticks="172" durationTicks="102" ppq="96" velocity="0.89"/>
+      <note number="4" values="4" ticks="242" durationTicks="81" ppq="96" velocity="0.866"/>
+      <note number="5" values="4" ticks="341" durationTicks="83" ppq="96" velocity="0.803"/>
+      <note number="6" values="4" ticks="401" durationTicks="80" ppq="96" velocity="0.795"/>
+      <note number="7" values="4" ticks="473" durationTicks="94" ppq="96" velocity="0.795"/>
     </notes>
   </exercise>
   <exercise number="2">
